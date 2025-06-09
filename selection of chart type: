@@ -1,0 +1,33 @@
+Creating a Sales Insight Dashboard using Python (for data processing and exploratory visualizations) and Power BI (for interactive visualizations) involves a combination of:
+
+Smart chart selection for clarity
+
+Data storytelling
+
+Interactive design elements in Power BI
+
+Clean and aesthetic visual layouts
+
+ Step-by-Step Plan for Building a Sales Insight Dashboard
+1. Identify Key Metrics and Data Dimensions
+Metrics (KPIs):
+
+Total Sales
+
+Sales by Region/Product
+
+Sales Growth (%)
+
+Average Order Value
+
+Customer Acquisition & Retention
+
+Dimensions:
+
+Time (monthly/quarterly/yearly)
+
+Product Categories
+
+Sales Regions/Stores
+
+Customer Segments
